@@ -1,7 +1,7 @@
 # TAR Software Workshop Repository
 ---
 
-Hey y'all!
+Hey y'all! Lets git it!
 
 This repo will contain foundational programming material for software languages and platforms used in TAR.
 
