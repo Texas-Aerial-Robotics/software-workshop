@@ -16,6 +16,7 @@ To configure your Git account:
 and 
 
 ` git --config user.email "your.git.email@yourdomain.com" `
+
 This is good to do at the start once you have git installed. More on Git in our Gitbook linked above.
 
 ## Linux Package Maintenance
