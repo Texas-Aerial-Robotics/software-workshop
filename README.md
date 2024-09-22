@@ -1,7 +1,7 @@
 # TAR Software Workshop Repository
 ---
 
-Hey y'all! Lets git it!
+Hey y'all! Lets git it! 
 
 This repo will contain foundational programming material for software languages and platforms used in TAR.
 
@@ -29,3 +29,5 @@ Its good to keep your linux package tool up to date, call it Linux Maintenance. 
 ` sudo apt update && sudo apt upgrade `
 
 Occasionally run this command when you are in your Ubuntu environment.
+
+Yes you need to do this!!!!!!!!
