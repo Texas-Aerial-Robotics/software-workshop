@@ -1,6 +1,8 @@
 # TAR Software Workshop Repository
 ---
 
+Hey y'all!
+
 This repo will contain foundational programming material for software languages and platforms used in TAR.
 
 Please take a look at our documenation on the [TAR GitBook](https://texas-aerial-robotics.gitbook.io/texas-aerial-robotics). 
