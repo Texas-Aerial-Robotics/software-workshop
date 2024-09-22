@@ -11,11 +11,11 @@ Go to our *Workshops* space. **(Currently WIP/Under Construction)**
 
 To configure your Git account:
 
-`git --config user.name "Your Name"`
+`git config --global user.name "Your Name"`
 
 and 
 
-` git --config user.email "your.git.email@yourdomain.com" `
+` git config --global user.email "your.git.email@yourdomain.com" `
 
 This is good to do at the start once you have git installed. More on Git in our Gitbook linked above.
 
