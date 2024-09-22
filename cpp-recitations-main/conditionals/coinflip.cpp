@@ -6,6 +6,7 @@ int main() {
   
   // Set the RNG seed.
   srand (time(NULL));
+  // https://cplusplus.com/reference/cstdlib/rand/
 
   // Use rand() to generate an integer with value either 0 or 1.
 

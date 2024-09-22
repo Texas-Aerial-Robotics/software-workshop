@@ -2,6 +2,7 @@
 #include <vector>
 
 // Define functions here.
+// This is where declared functions in the header are DEFINED!
 
 void display_misses(int misses) {
 
@@ -11,8 +12,8 @@ void display_misses(int misses) {
     std::cout << "                 |                            \n";
     std::cout << "              .-\"^\"-.                       \n";
     std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
+    std::cout << "/======= .-\"`         `\"-.=======/          \n";
+    std::cout << "        (  \m/  TAR  \m/  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
     std::cout << "              /     \\        (  Send help! ) \n";
     std::cout << "             /   0   \\      / `-----------'  \n";
@@ -28,8 +29,8 @@ void display_misses(int misses) {
     std::cout << "                 |                            \n";
     std::cout << "              .-\"^\"-.                       \n";
     std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
+    std::cout << "/======= .-\"`         `\"-.=======/          \n";
+    std::cout << "        (  \m/  TAR  \m/  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
     std::cout << "              /  0  \\        (  Send help! ) \n";
     std::cout << "             / --|-- \\      / `-----------'  \n";
@@ -45,8 +46,8 @@ void display_misses(int misses) {
     std::cout << "                 |                            \n";
     std::cout << "              .-\"^\"-.                       \n";
     std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
+    std::cout << "/======= .-\"`         `\"-.=======/          \n";
+    std::cout << "        (  \m/  TAR  \m/  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
     std::cout << "              /--|--\\        (  Send help! ) \n";
     std::cout << "             /   |   \\      / `-----------'  \n";
@@ -62,8 +63,8 @@ void display_misses(int misses) {
     std::cout << "                 |                            \n";
     std::cout << "              .-\"^\"-.                       \n";
     std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
+    std::cout << "/======= .-\"`         `\"-.=======/          \n";
+    std::cout << "        (  \m/  TAR  \m/  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
     std::cout << "              /--|--\\        (  Send help! ) \n";
     std::cout << "             /   |   \\      / `-----------'  \n";
@@ -79,8 +80,8 @@ void display_misses(int misses) {
     std::cout << "                 |                            \n";
     std::cout << "              .-\"^\"-.                       \n";
     std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
+    std::cout << "/======= .-\"`         `\"-.=======/          \n";
+    std::cout << "        (  \m/  TAR  \m/  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
     std::cout << "              /  |  \\        (  Send help! ) \n";
     std::cout << "             /  / \\  \\      / `-----------' \n";
@@ -96,8 +97,8 @@ void display_misses(int misses) {
     std::cout << "                 |                            \n";
     std::cout << "              .-\"^\"-.                       \n";
     std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
+    std::cout << "/======= .-\"`         `\"-.=======/          \n";
+    std::cout << "        (  \m/  TAR  \m/  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
     std::cout << "              / / \\ \\        (  Send help! )\n";
     std::cout << "             /       \\      / `-----------'  \n";
@@ -113,8 +114,8 @@ void display_misses(int misses) {
     std::cout << "                 |                            \n";
     std::cout << "              .-\"^\"-.                       \n";
     std::cout << "             /_....._\\                       \n";
-    std::cout << "         .-\"`         `\"-.                  \n";
-    std::cout << "        (  ooo  ooo  ooo  )                   \n";
+    std::cout << "/======= .-\"`         `\"-.=======/          \n";
+    std::cout << "        (  \m/  TAR  \m/  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
     std::cout << "              /     \\        (  Send help! ) \n";
     std::cout << "             /       \\      / `-----------'  \n";

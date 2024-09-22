@@ -2,6 +2,8 @@
 #include <vector>
 #include <string>
 
+// https://www.geeksforgeeks.org/vector-in-cpp-stl/
+
 int main() {
   
   // Write a program that turns a string into "whale talk." Whale talk follows the rules below:
