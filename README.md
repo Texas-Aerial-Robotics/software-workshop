@@ -15,8 +15,7 @@ To configure your Git account:
 
 and 
 
-'git --config user.email "your.git.email@yourdomain.com"'
-
+` git --config user.email "your.git.email@yourdomain.com" `
 This is good to do at the start once you have git installed. More on Git in our Gitbook linked above.
 
 ## Linux Package Maintenance
@@ -24,6 +23,6 @@ This is good to do at the start once you have git installed. More on Git in our 
 
 Its good to keep your linux package tool up to date, call it Linux Maintenance. Run:
 
-'sudo apt update && sudo apt upgrade' 
+` sudo apt update && sudo apt upgrade `
 
 Occasionally run this command when you are in your Ubuntu environment.
