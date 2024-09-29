@@ -23,4 +23,10 @@ pip3 install opencv-contrib-python
 # https://github.com/damiafuentes/DJITelloPy 
 pip3 install djitellopy
 
+sudo apt install python3.8-venv
 
+pip3 install pygame
+
+# Installing Micro Aerial Vehicle SDK
+
+pip3 install mavsdk
