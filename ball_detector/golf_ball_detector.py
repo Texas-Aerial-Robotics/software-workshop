@@ -3,10 +3,15 @@ import numpy as np
 
 cap = cv2.VideoCapture(0)
 
+# Change window resolution here
+sizex=1000 #px
+sizey=int(sizex*3/4) #px
+
 if not cap.isOpened():
     print("Error: Could not open video capture.")
     exit()
 
+# Tune HSV/HSB color bounds
 lower_green = np.array([35, 100, 100])
 upper_green = np.array([85, 255, 255])
 
@@ -50,7 +55,9 @@ while True:
                             cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
     
     drawn_circles = circles_in_frame
-    
+
+
+    frame = cv2.resize(frame,(sizex, sizey))
     cv2.imshow('Green Tennis Ball Detection with Pose', frame)
  
     if cv2.waitKey(1) & 0xFF == ord('q'):

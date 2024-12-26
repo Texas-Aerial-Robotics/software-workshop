@@ -7,7 +7,7 @@ import random
 
 def sortdecreasing(l:list)->list:
 
-    # Write a program to sort a long list of random integers in descnet order
+    # Write a program to sort a long list of random integers in descending order
     
     return d
 

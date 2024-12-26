@@ -9,14 +9,17 @@
 # 2. The u‘s and e‘s are extra long, so we must double them.
 # ---------------------------------------------------------------- #
 
-home =  <Your favorite building at UT> # fill this out
+home =  "ASE" # fill this out
 
-inp = f"i live at the {home} building"
+string = f"I live at the {home} building"
 
-# Hint 1: Make a list of vowels
-vowels = []
+print(f"\nOriginal String : {string}\n" )
+
+# Hint 1: Make a list of vowels (python is case sensitive)
+vowels = ['a','e','i','o','u', 'A','E','I','O','U']
 
 # Hint 2: Look to using nested for loop and append for lists
-
+string = "".join([2*c for c in string for i in vowels if c == i])
 
 # Output the result to the user.
+print(f'Whale Talk String : {string}\n')

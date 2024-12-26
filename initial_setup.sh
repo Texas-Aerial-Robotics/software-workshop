@@ -23,7 +23,7 @@ pip3 install matplotlib
 pip3 install opencv-contrib-python
 
 # https://github.com/damiafuentes/DJITelloPy 
-pip3 install djitellopy
+# pip3 install djitellopy
 
 sudo apt install python3.8-venv
 
