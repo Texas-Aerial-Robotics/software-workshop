@@ -21,7 +21,7 @@ and
 
 This is good to do at the start once you have git installed. More on Git in our Gitbook linked above.
 
-## Linux Package Maintenance
+## Linux Package Maintenance (If using Ubuntu)
 ---
 
 Its good to keep your linux package tool up to date, call it Linux Maintenance. Run:
