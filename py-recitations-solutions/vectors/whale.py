@@ -9,9 +9,9 @@
 # 2. The u‘s and e‘s are extra long, so we must double them.
 # ---------------------------------------------------------------- #
 
-home =  "ASE" # fill this out
+major =  "Aerospace Engineering" # fill this out
 
-string = f"I live at the {home} building"
+string = f"I am studying {major}"
 
 print(f"\nOriginal String : {string}\n" )
 
@@ -19,7 +19,13 @@ print(f"\nOriginal String : {string}\n" )
 vowels = ['a','e','i','o','u', 'A','E','I','O','U']
 
 # Hint 2: Look to using nested for loop and append for lists
-string = "".join([2*c for c in string for i in vowels if c == i])
+output = ""
+for c in string:
+    for i in vowels:
+        if c == i:
+            output = "".join([output+c])
+            if c == 'e' or c == 'u' or c == 'E' or c == 'U':
+                output = "".join([output+c])
 
 # Output the result to the user.
-print(f'Whale Talk String : {string}\n')
+print(f'Whale Talk String : {output}\n')
