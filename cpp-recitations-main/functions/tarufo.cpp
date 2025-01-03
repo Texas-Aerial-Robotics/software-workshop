@@ -3,7 +3,7 @@
 
 // Instructions:
 
-// Define a void function greet() in ufo_functions.cpp that prints out the
+// Define a void function greet() in tarufo_functions.cpp that prints out the
 // game title and instructions for the player.
 //
 // Example:
@@ -31,7 +31,7 @@
 // Let's skip to when the player has won or lost before we dive into the while
 // loop and player turns. Below the while loop, check if the player has won.
 // If the player won, print a congratulation message. ("Hooray! You saved the
-// person and earned an A in Aerial Robotics!") Otherwise, print a consequence
+// person! Congratulations, you have earned the TAR Up-and-Coming Cracked Award") Otherwise, print a consequence
 // that sounds vaguely threatening.
 //
 // Move this last condition into a new function end_game() that allows you to
@@ -40,7 +40,7 @@
 // the function end_game() and try running the code.
 //
 // Moving on to taking turns, let's begin each turn by displaying the player's
-// abudction status with provided ASCII art.Inside of the while loop, call
+// abudction status with provided ASCII art. Inside of the while loop, call
 // display_misses() with an argument of misses, which has been provided.
 //
 // Next, display two things: The player's incorrect guesses and the answer
